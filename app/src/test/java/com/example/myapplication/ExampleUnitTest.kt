@@ -1,4 +1,4 @@
-package com.example.s05exo5
+package com.example.myapplication
 
 import org.junit.Test
 
