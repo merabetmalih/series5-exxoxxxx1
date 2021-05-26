@@ -1,4 +1,4 @@
-package com.example.myapplicationcoolooor
+package com.example.s05exo5
 
 import org.junit.Test
 
